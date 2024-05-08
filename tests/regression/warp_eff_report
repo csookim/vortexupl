@@ -1,0 +1,28 @@
+# 1, 4, 4, 4
+
+PERF: total stalled warps=603979
+PERF: total active warps=636086
+PERF: warp efficiency=0.050476
+PERF: instrs=118466, cycles=170841, IPC=0.693428
+
+# 1, 8, 8, 4
+
+PERF: total stalled warps=505821
+PERF: total active warps=619215
+PERF: warp efficiency=0.183125
+PERF: instrs=124714, cycles=96108, IPC=1.297644
+
+# 1, 16, 16, 4
+
+PERF: total stalled warps=518359
+PERF: total active warps=844637
+PERF: warp efficiency=0.386294
+PERF: instrs=147761, cycles=76673, IPC=1.927158
+
+# 1, 32, 32, 4
+
+PERF: total stalled warps=1182684
+PERF: total active warps=1815938
+PERF: warp efficiency=0.348720
+
+PERF: instrs=239344, cycles=92272, IPC=2.593896
